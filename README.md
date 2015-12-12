@@ -25,6 +25,10 @@ Run SimpleViewer.exe for Testing. It will be located at
 
 ### Java JNI
 
+Extract all dll.zip in the project folder. (./kinect-openni2 and ./kinect-openni2/lib/OpenNI2/Drivers)
+
+OR
+
 If you want to change the native library path, add the following and load the library OpenNI2.dll (directory to wherever it is on your machine or user loadLibrary() if you want a relative path)
 
 ```java
