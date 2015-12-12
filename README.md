@@ -5,7 +5,9 @@
 ### Install
 
 a. Install Kinect SDK 1.8 
+
 b. Install OpenNI 2.2 SDK 32bits / 64bits ( install both 64 bits and 32bits if u are using win64)
+
 c. Install Nite 2.2 ( install both 64 bits and 32bits if u are using win64)
 
 ### Test
