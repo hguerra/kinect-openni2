@@ -23,7 +23,7 @@ Run SimpleViewer.exe for Testing. It will be located at
 
 ### Java JNI
 
-If you want to change the native library path, add the following and load the library OpenNI2.dll (directory to wherever it is on your machine or user loadLibrary() if you want a relative path) and all will be merry, just wish OpenNI had included an actually working Java sample!
+If you want to change the native library path, add the following and load the library OpenNI2.dll (directory to wherever it is on your machine or user loadLibrary() if you want a relative path)
 
 ```java
 
@@ -44,4 +44,5 @@ static {
 Installation Guide
 
 https://www.youtube.com/watch?v=m5uTH3S9P9g
+
 https://docs.google.com/file/d/0B3e4_6C5_YOjcmZpak12Q2MyZHM/edit?pli=1
